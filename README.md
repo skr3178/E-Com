@@ -6,6 +6,10 @@ This folder contains the new mobile app stack:
 - `frontend/` is the React frontend optimized for phones.
 - `ios/` is reserved for the Capacitor iOS project opened from Xcode.
 
+## App preview
+
+<img src="./demo.gif" alt="GeM Tender App demo" width="360" />
+
 ## Python environment
 
 ```bash
