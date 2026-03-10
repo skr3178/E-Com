@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+frontend/dist
+ios/App/App/public
+ios/App/App/capacitor.config.json
+ios/App/App/Pods
+ios/App/DerivedData
+node_modules

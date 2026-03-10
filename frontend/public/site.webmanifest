@@ -1,0 +1,15 @@
+{
+  "name": "GeM Tender",
+  "short_name": "GeM",
+  "display": "standalone",
+  "background_color": "#f4f2e8",
+  "theme_color": "#0e3b2d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
